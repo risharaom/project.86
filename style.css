@@ -1,0 +1,16 @@
+.body_background 
+{
+    background-image:url(https://cdn11.bigcommerce.com/s-xsr3p/images/stencil/1280x1280/products/937/1159/row50_1__91412.1538506044.jpg?c=2);
+    background-position:center;
+    background-size:contain;
+}
+#myCanvas
+{
+    border-width:10px;
+    background-color: white; 
+    border-style:ridge;
+}
+p{
+    font-size:35px;
+    background-color:royalblue;
+}
